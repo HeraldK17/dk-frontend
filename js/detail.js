@@ -131,7 +131,7 @@ function render(cvr, filings) {
         <tbody id="history-body">${tableRows}</tbody>
       </table>
       <p style="font-size:12px;color:var(--text-muted);margin:12px 0 0">
-        Monetary values shown in the source units (DKK). Click a row to open its
+        Monetary values shown in U.S. dollars (USD). Click a row to open its
         filing.
       </p>
     </section>
